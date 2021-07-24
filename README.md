@@ -3,7 +3,7 @@ This repository is meant for downloading the XCH client and opening up Github Is
 
 ## Latest Release
 
-Ubuntu/Debian: [download link](http://s3.amazonaws.com/artifacts.supermine.io/Supermine-XCH-0.1.5b_amd64.deb)
+Ubuntu/Debian: [download link](https://github.com/SuperMine-Pooling/XCH-Client/releases/latest)
 
-Windows 10: [download link](http://s3.amazonaws.com/artifacts.supermine.io/Supermine-XCH-0.1.5b_amd64_win64.zip)
+Windows 10: [download link](https://github.com/SuperMine-Pooling/XCH-Client/releases/latest)
 
